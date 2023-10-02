@@ -11,11 +11,12 @@ export default function PortfolioItem({
     <a
       className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden shadow-2xl dark:shadow dark:shadow-white"
       href={link}
+      target="_blank"
     >
       <img
         src={imgUrl}
         alt="portfolio"
-        className="w-full h-36 md:h-48 object-cover cursor-pointer"
+        className="w-full h-54 md:h-48 object-cover cursor-pointer border-b-4 border-b-stone-900 dark:border-b-white"
       />
       <div className="w-full p-4">
         <h3 className="text-lg md:text-xl mb-1 md:mb-2 font-semibold dark:text-white">
