@@ -31,7 +31,7 @@ export default function Contact() {
           ></textarea>
           <button
             type="submit"
-            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-green-400 to-blue-600 drop-shadow-md hover:scale-110"
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium text-white transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-700 duration-300 rounded-md"
           >
             Work With Me
           </button>
