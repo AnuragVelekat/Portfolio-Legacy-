@@ -2,18 +2,18 @@ export default [
   {
     title: "RoboFriends",
     imgUrl: "assets\\robofriends.png",
-    stack: ["ReactJS", "Javascript", "Web Development"],
+    stack: ["React", "Javascript", "Tailwind CSS"],
     link: "https://robofriends-anurag.netlify.app/", //link to project
     description:
-      "Simple react app that lets you search for different robots already present in a predefined list of robots.",
+      "React web application that lets you search for different robots already present in a predefined list of robots.",
   },
   {
-    title: "Auto ML",
-    imgUrl: "assets\\Streamlit_AutoML.png",
-    stack: ["Python", "Streamlit", "Machine Learning"],
-    link: "", //link to project
+    title: "React essentials",
+    imgUrl: "assets\\react-essentials.png",
+    stack: ["React", "Javascript", "CSS"],
+    link: "https://react-essentials-nine.vercel.app/", //link to project
     description:
-      "Auto ML application that takes a dataset and performs EDA on the data and runs different Machine Learning models on the data and lets the user download the best model based on accuracy score and various other classification metrics.",
+      "React web application that explains the fundamental concepts of React JS including Components, Props, JSX and State.",
   },
   {
     title: "Project 3",
