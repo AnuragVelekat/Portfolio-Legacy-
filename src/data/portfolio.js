@@ -7,12 +7,12 @@ export default [
     description: "Tic Tac Toe game built using React JS.",
   },
   {
-    title: "RoboFriends",
-    imgUrl: "assets\\robofriends.png",
-    stack: ["React", "Javascript", "Tailwind CSS"],
-    link: "https://robofriends-anurag.netlify.app/", //link to project
+    title: "Investment Calculator",
+    imgUrl: "assets\\investment-calculator.png",
+    stack: ["React", "Javascript", "CSS"],
+    link: "https://anurag-investment-calculator.vercel.app/", //link to project
     description:
-      "React web application that lets you search for different robots already present in a predefined list of robots.",
+      "React web application that lets user calculate investments made.",
   },
   {
     title: "React essentials",
